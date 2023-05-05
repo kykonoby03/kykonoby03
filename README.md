@@ -1,5 +1,6 @@
-### Hi, I'm Kykonoby03, MIKASA's friend 🧛
-
+### Hi, I'm Kykonoby03, Mikasa's friend 🧛
+#### jangan lupa hubungi saya ya 👇
+#### keybed-madara@protonmail.com
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
